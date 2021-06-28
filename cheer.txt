@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello World
 
 Hello cosmo! 
+=======
+Hello World - parameter: c
+>>>>>>> 57f5a9e66175c07dc3c878f139e937860dd2b37e
