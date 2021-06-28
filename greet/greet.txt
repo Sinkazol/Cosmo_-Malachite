@@ -1,0 +1,13 @@
+
+ trigger OnOpenPage();
+    var
+        MyName: Text;
+       
+    begin
+        MyName := 'John Doe';
+       
+        
+        Message('Hello my name is %1, MyName);
+        
+        
+    end;
