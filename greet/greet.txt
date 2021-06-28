@@ -13,3 +13,5 @@
     end;
 
 most aztan nagzon modositok
+
+ezt modosítottam GY.
