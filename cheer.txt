@@ -1,3 +1,8 @@
 System.out.println("hello malachite");
+<<<<<<< HEAD
 
 proba 123 
+=======
+System.out.println("hello world too");
+
+>>>>>>> 2280239fcef70efa1438ba4f4e4639482f656a61
