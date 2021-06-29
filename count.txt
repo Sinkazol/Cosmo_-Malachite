@@ -1,1 +1,3 @@
 count.txt
+
+ez a b2 kettö modositás.
