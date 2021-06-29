@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-Hello World
+System.out.println("hello malachite");
 
-Hello cosmo! 
-=======
-Hello World - parameter: c
->>>>>>> 57f5a9e66175c07dc3c878f139e937860dd2b37e
+
+proba 123 
+
+System.out.println("hello world too");
+
+

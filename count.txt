@@ -1,5 +1,6 @@
-''I am 28 years old""
+count.txt
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 I dont think so. Zoli
 =======
@@ -8,3 +9,6 @@ int age = 29
 print out ('I am %1, age)
 >>>>>>> 94b30164332321c10bfd47aa28a8c60ee22b5e51
 dkflajéldkfjasdkjfélkdsjaé
+=======
+ez a b2 kettö modositás.
+>>>>>>> main
